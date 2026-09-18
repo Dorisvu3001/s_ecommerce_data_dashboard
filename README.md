@@ -1,8 +1,7 @@
 # ecommerce_data_dashboard
 
-
-1. Background and Overview
+## Project Background
 2. Data structure overview
 3. Executive summary
-4. Insight deep dive
-5. Recommendation
+5. Insight deep dive
+6. Recommendation
